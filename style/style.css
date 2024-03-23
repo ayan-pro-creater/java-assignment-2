@@ -1,0 +1,8 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+  #contf{background-color: rgb(38, 38, 107);}
+  #fot{background-color: rgb(38, 38, 107); 
+  text-align: center;
+  color: white;
+  padding: 20px 10px;}
